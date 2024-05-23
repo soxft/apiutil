@@ -1,4 +1,4 @@
-package go_apiutil
+package apiutil
 
 import "github.com/gin-gonic/gin"
 

@@ -1,4 +1,4 @@
-module github.com/soxft/go-apiutil
+module github.com/soxft/apiutil
 
 go 1.20
 

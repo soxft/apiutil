@@ -1,4 +1,4 @@
-# go-apiutil
+# apiutil
 
 > simple api response parser for golang
 
@@ -6,5 +6,5 @@
 ## install
 
 ```bash
-go get -u github.com/soxft/go-apiutil
+go get -u github.com/soxft/apiutil
 ```
